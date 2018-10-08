@@ -1,0 +1,1 @@
+Licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
