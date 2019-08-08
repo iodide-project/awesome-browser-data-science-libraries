@@ -18,6 +18,11 @@ Also, a listed repository should be deprecated if:
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
 - [mljs](https://github.com/mljs/ml): Machine learning tools in JavaScript
 
+# Natural Language Processing
+
+- [Underscore.string](http://epeli.github.io/underscore.string/): Not actually an NLP library, but a useful toolkit for working with strings in Javascript.
+- [Natural](https://github.com/NaturalNode/natural): general natural language facilities for node
+
 # Deep Learning
 
 - [TensorFlow.js](https://www.tensorflow.org/js): TensorFlow.js is a library for developing and training ML models in JavaScript, and deploying in browser or on Node.js
