@@ -18,6 +18,14 @@ Also, a listed repository should be deprecated if:
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
 - [mljs](https://github.com/mljs/ml): Machine learning tools in JavaScript
 
+# Deep Learning
+
+- [TensorFlow.js](https://www.tensorflow.org/js): TensorFlow.js is a library for developing and training ML models in JavaScript, and deploying in browser or on Node.js
+- [ConvNet](https://cs.stanford.edu/people/karpathy/convnetjs/): ConvNetJS is a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser
+- [ml5](https://ml5js.org/): Friendly Machine Learning for the Web
+- [WebDNN](https://mil-tokyo.github.io/webdnn/): Fastest DNN Execution Framework on Web Browser
+- [brain.js](https://brain.js.org/): Neural networks in JavaScript
+
 # Visualization
 
 - [D3](https://d3js.org): Data-driven documents
