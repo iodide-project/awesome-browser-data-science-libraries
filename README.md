@@ -21,6 +21,8 @@ Also, a listed repository should be deprecated if:
 # Visualization
 
 - [D3](https://d3js.org): Data-driven documents
+- [C3.js](https://c3js.org/): D3-based reusable chart library
+- [Vega](https://vega.github.io/vega/): A Visualization Grammar
 - [Plotly.js](https://plot.ly/javascript/): General-purpose data visualization
 
 # Other languages
