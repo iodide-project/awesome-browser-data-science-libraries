@@ -16,7 +16,11 @@ Also, a listed repository should be deprecated if:
 - [bluemath](https://github.com/bluemathsoft/bluemath): Math kernel in Javascript
 - [libRmath.js](https://github.com/jacobbogers/libRmath.js/): Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
+
+# Machine learning
+
 - [mljs](https://github.com/mljs/ml): Machine learning tools in JavaScript
+- [machinelearn.js](https://www.machinelearnjs.com/): Machine Learning library for the web and Node
 
 # Natural Language Processing
 
