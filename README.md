@@ -32,6 +32,8 @@ Also, a listed repository should be deprecated if:
 - [wink](https://winkjs.org/): Open Source packages for NLP, ML and Statistics in Node JS to build production grade solutions
 - [twitter-text-js](https://github.com/twitter/twitter-text/tree/master/js): A JavaScript utility that provides text processing routines for Tweets
 - [Knwl.js](https://github.com/benhmoore/Knwl.js): Find Dates, Places, Times, and More. A .js library for parsing text for specific information
+- [Talisman](http://yomguithereal.github.io/talisman/): A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript
+- [Franc](https://github.com/wooorm/franc): Natural language detection
 - [Underscore.string](http://epeli.github.io/underscore.string/): Not actually an NLP library, but a useful toolkit for working with strings in Javascript
 
 # Deep Learning
