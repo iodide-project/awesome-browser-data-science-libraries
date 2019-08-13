@@ -16,6 +16,7 @@ Also, a listed repository should be deprecated if:
 - [bluemath](https://github.com/bluemathsoft/bluemath): Math kernel in Javascript
 - [libRmath.js](https://github.com/jacobbogers/libRmath.js/): Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
+- [Simple Statistics](https://simplestatistics.org/): Statistical methods in readable JavaScript for browsers, servers, and people
 
 # Machine learning
 
