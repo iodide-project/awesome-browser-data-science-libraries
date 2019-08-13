@@ -25,8 +25,14 @@ Also, a listed repository should be deprecated if:
 
 # Natural Language Processing
 
-- [Underscore.string](http://epeli.github.io/underscore.string/): Not actually an NLP library, but a useful toolkit for working with strings in Javascript.
 - [Natural](https://github.com/NaturalNode/natural): general natural language facilities for node
+- [node-nlp](https://github.com/axa-group/nlp.js#readme): A Fork of Natural with many additional capabilities
+- [sentiment](https://github.com/thisandagain/sentiment): AFINN-based sentiment analysis for Node.js
+- [compromise](http://compromise.cool/): interprets and pre-parses English
+- [wink](https://winkjs.org/): Open Source packages for NLP, ML and Statistics in Node JS to build production grade solutions
+- [twitter-text-js](https://github.com/twitter/twitter-text/tree/master/js): A JavaScript utility that provides text processing routines for Tweets
+- [Knwl.js](https://github.com/benhmoore/Knwl.js): Find Dates, Places, Times, and More. A .js library for parsing text for specific information
+- [Underscore.string](http://epeli.github.io/underscore.string/): Not actually an NLP library, but a useful toolkit for working with strings in Javascript
 
 # Deep Learning
 
