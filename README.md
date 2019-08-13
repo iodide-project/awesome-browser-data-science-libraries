@@ -47,6 +47,9 @@ Also, a listed repository should be deprecated if:
 - [C3.js](https://c3js.org/): D3-based reusable chart library
 - [Vega](https://vega.github.io/vega/): A Visualization Grammar
 - [Plotly.js](https://plot.ly/javascript/): General-purpose data visualization
+- [Nivo](https://nivo.rocks/): A rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [Chart.js](https://www.chartjs.org/): Simple yet flexible JavaScript charting for designers & developers
+- [sigmajs](http://sigmajs.org/): a JavaScript library dedicated to graph drawing
 
 # Other languages
 
