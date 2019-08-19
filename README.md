@@ -29,6 +29,8 @@ Also, a listed repository should be deprecated if:
 - [sql.js](https://github.com/kripken/sql.js/): SQLite compiled to JavaScript through Emscripten
 - [Lodash](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras
 - [jq-web](https://github.com/fiatjaf/jq-web): the command-line JSON processor, compiled with emscripten and exposed as JavaScript library
+- [datalib](http://vega.github.io/datalib/): a JavaScript data utility library
+- [zebras](https://github.com/nickslevine/zebras): a data manipulation and analysis library written in JavaScript offering the convenience of pandas or R
 
 # Foundational
 
@@ -36,8 +38,6 @@ Also, a listed repository should be deprecated if:
 - [libRmath.js](https://github.com/jacobbogers/libRmath.js/): Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
 - [Simple Statistics](https://simplestatistics.org/): Statistical methods in readable JavaScript for browsers, servers, and people
-- [datalib](http://vega.github.io/datalib/): a JavaScript data utility library
-- [zebras](https://github.com/nickslevine/zebras): a data manipulation and analysis library written in JavaScript offering the convenience of pandas or R
 
 # Machine learning
 
