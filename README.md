@@ -17,6 +17,12 @@ Also, a listed repository should be deprecated if:
 - [js-xlsx](https://github.com/SheetJS/js-xlsx): Parser and writer for various spreadsheet formats
 - [Apache Arrow](https://github.com/apache/arrow/tree/master/js): Enable big data systems to process and transfer data quickly
 
+# Data Munging
+
+- [sql.js](https://github.com/kripken/sql.js/): SQLite compiled to JavaScript through Emscripten
+- [Lodash](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras
+- [jq-web](https://github.com/fiatjaf/jq-web): the command-line JSON processor, compiled with emscripten and exposed as JavaScript library
+
 # Foundational
 
 - [bluemath](https://github.com/bluemathsoft/bluemath): Math kernel in Javascript
