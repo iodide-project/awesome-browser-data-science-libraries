@@ -32,12 +32,14 @@ Also, a listed repository should be deprecated if:
 - [datalib](http://vega.github.io/datalib/): a JavaScript data utility library
 - [zebras](https://github.com/nickslevine/zebras): a data manipulation and analysis library written in JavaScript offering the convenience of pandas or R
 
-# Foundational
+# Math/Statistics
 
+- [mathjs](https://mathjs.org/): An extensive math library for JavaScript and Node.js
 - [bluemath](https://github.com/bluemathsoft/bluemath): Math kernel in Javascript
 - [libRmath.js](https://github.com/jacobbogers/libRmath.js/): Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [stdlib](https://github.com/stdlib-js/stdlib): A standard library for Javascript, with an emphasis on numerical and scientific computing applications.
 - [Simple Statistics](https://simplestatistics.org/): Statistical methods in readable JavaScript for browsers, servers, and people
+- [jStat](http://jstat.github.io/): perform advanced statistical operations
 
 # Machine learning
 
