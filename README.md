@@ -17,6 +17,7 @@ Also, a listed repository should be deprecated if:
 - [Runkit](https://runkit.com/home): A Node Playground in your Browser
 - [Iodide](https://alpha.iodide.io/): lets you do data science entirely in your browser
 - [Carbide](https://alpha.trycarbide.com): A Reactive Javascript programming environment
+- [Kaggle Notebooks](https://www.kaggle.com/kernels): Run Analyses on Google Cloud using Python or R
 
 # Data Formats
 
