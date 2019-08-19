@@ -66,6 +66,7 @@ Also, a listed repository should be deprecated if:
 - [Nivo](https://nivo.rocks/): A rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [Chart.js](https://www.chartjs.org/): Simple yet flexible JavaScript charting for designers & developers
 - [sigmajs](http://sigmajs.org/): a JavaScript library dedicated to graph drawing
+- [falcon](https://github.com/uwdata/falcon): Interactive Visual Analysis for Big Data. Crossfilter millions of records without latencies
 
 # Other languages
 
