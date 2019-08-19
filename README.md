@@ -11,6 +11,12 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
+# Data Formats
+
+- [Papa Parse](https://www.papaparse.com/): Powerful, in-browser CSV parser
+- [js-xlsx](https://github.com/SheetJS/js-xlsx): Parser and writer for various spreadsheet formats
+- [Apache Arrow](https://github.com/apache/arrow/tree/master/js): Enable big data systems to process and transfer data quickly
+
 # Foundational
 
 - [bluemath](https://github.com/bluemathsoft/bluemath): Math kernel in Javascript
