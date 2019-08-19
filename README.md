@@ -11,6 +11,13 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
+# Environments
+
+- [Observable](https://observablehq.com/): The magic notebook for Exploring Data
+- [Runkit](https://runkit.com/home): A Node Playground in your Browser
+- [Iodide](https://alpha.iodide.io/): lets you do data science entirely in your browser
+- [Carbide](https://alpha.trycarbide.com): A Reactive Javascript programming environment
+
 # Data Formats
 
 - [Papa Parse](https://www.papaparse.com/): Powerful, in-browser CSV parser
