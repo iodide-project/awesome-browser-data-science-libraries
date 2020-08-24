@@ -13,6 +13,7 @@ Also, a listed repository should be deprecated if:
 
 # Environments
 
+- [HASH](https://hash.ai/): create and run multi-agent simulations in your browser
 - [Observable](https://observablehq.com/): The magic notebook for Exploring Data
 - [Runkit](https://runkit.com/home): A Node Playground in your Browser
 - [Iodide](https://alpha.iodide.io/): lets you do data science entirely in your browser
